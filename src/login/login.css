@@ -1,0 +1,62 @@
+.button {
+  background-color: #B22222; /* Green */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+      a { color: #B22222; } /* CSS link color */
+      
+    h4 { color: #B22222; }
+
+
+.buttonlogin {border-radius: 35%;}
+      
+      
+      
+#rcorners1 {
+  border-radius: 25px;
+  border: 2px solid red;
+  padding: 20px;
+    background: white;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #000000;
+  padding: 20px;
+    background: white;
+  
+}
+
+#rcorners3 {
+  border-radius: 25px;
+  border: 2px solid red;
+  padding: 20px;
+    background: red; 
+      }
+      
+      
+      
+legend {
+padding: 0;
+width: 200px;
+margin-bottom: 0px;
+border: 0;
+color: white;
+background-color: red;
+text-align: center;
+border-radius: 20px 20px 0px 0px;
+}
+.header {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 20px;
+}
